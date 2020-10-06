@@ -44,7 +44,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 # SITE MAP :
-![alt SITE MAP](https://github.com/)
+![SITE MAP](https://github.com/)
 
 # Code of Conduct :
 * [Code of Conduct]()
