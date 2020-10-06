@@ -47,10 +47,10 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ![SITE MAP](https://github.com/)
 
 # Code of Conduct :
-* [Code of Conduct]()
+* [Code of Conduct](https://github.com/dscigdtuw/ZerotoHero/blob/master/CODE_OF_CONDUCT.md)
 
 # LICENSE :
 `MIT License`
 
-* [LICENSE]()
+* [LICENSE](https://github.com/dscigdtuw/ZerotoHero/blob/master/LICENSE)
 * Copyright 2020 
