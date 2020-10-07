@@ -42,9 +42,8 @@ npm run build
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-
 # SITE MAP :
-![SITE MAP](https://github.com/)
+![SITE MAP](https://user-images.githubusercontent.com/54851166/95301614-72465900-089e-11eb-8649-4761e0c525d4.png)
 
 # Code of Conduct :
 * [Code of Conduct](https://github.com/dscigdtuw/ZerotoHero/blob/master/CODE_OF_CONDUCT.md)
