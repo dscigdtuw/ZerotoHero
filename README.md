@@ -1,3 +1,4 @@
+![Logo](https://github.com/Sonali12920/DSCimages/blob/main/zerotohero.PNG)
 # ZerotoHero
 ![GitHub issues](https://img.shields.io/github/issues/dscigdtuw/ZerotoHero)
 ![GitHub stars](https://img.shields.io/github/stars/dscigdtuw/ZerotoHero)
