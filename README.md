@@ -42,6 +42,20 @@ npm run build
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
+# Table of contents:
+
+*	Tech stack
+*	Buildup setup
+*	Folder structure
+*	Project Plan 
+*	Contributing 
+*	Contributor
+*	Maintainer 
+*	Lenience
+
+# Folder Structure
+.......
+
 # SITE MAP :
 ![SITE MAP](https://user-images.githubusercontent.com/54851166/95301614-72465900-089e-11eb-8649-4761e0c525d4.png)
 
